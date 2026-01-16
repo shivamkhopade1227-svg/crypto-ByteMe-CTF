@@ -1,5 +1,4 @@
-The Dragon's Handshakeo
-
+The Dragon's Handshake
 
 House Targaryen uses a powerful cryptographic ritual to secure messages between Dragonstone and the Iron Throne.
 
