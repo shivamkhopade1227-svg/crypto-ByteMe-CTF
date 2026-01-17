@@ -13,6 +13,10 @@ Study the handshake.
 Restore the ritual.
 Unseal the message.
 
-dragonstone.py -> Client side 
+dragonstone.py -> Client side (use python3 dragonstone.py)
 
-iron_throne.py -> Server side 
+iron_throne.py -> Server side (use python3 iron_throne.py)
+
+ravens.log -> Client public key coordinates and server public key coordinates 
+
+sealed_scroll.bin -> encrypted flag
